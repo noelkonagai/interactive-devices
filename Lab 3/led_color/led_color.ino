@@ -19,7 +19,8 @@ void setup()
   pinMode(greenPin, OUTPUT);
   pinMode(bluePin, OUTPUT);  
 }
-void loop() { 
+void loop() {
+   
   setColor(255, 0, 0);    // red
   setColor(0, 255, 0);    // green
   setColor(0, 0, 255);    // blue

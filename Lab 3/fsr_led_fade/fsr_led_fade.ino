@@ -20,6 +20,7 @@ void setup()
 }
 void loop() {
   fsrReading = analogRead(fsrPin);
+  Serial.println(fsrReading);
   fsrLED = map(fsrReading, 0, 1023, 0, 255); 
   Serial.println(fsrLED);  
 
