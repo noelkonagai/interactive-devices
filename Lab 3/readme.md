@@ -154,7 +154,7 @@ Link to [code](https://github.com/noelkonagai/interactive-devices/blob/master/La
  
 **a. Insert here a copy of your final state diagram.**
 
-![Finite State Diagram(https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/finite_state_diagram.png) "Finite state diagram"]
+![Finite State Diagram](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/finite_state_diagram.png) "Finite state diagram"
 
 ### 3. Create your data logger!
  
