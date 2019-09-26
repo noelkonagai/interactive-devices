@@ -32,9 +32,9 @@ After converting the analog to digital reading to voltages, I was able to get va
 
 At a glance it seems to be logarithmic, but it is hard to tell as it is hard to exert a force that is constantly increasing. All things considered, it is a positive correlation.
 
-[Link to Color LED code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/led_color.ino)
+[Link to Color LED code](https://github.com/noelkonagai/interactive-devices/tree/master/Lab%203/led_color)
 
-![FSR Reading Image](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/Screen%20Shot%202019-09-21%20at%207.15.38%20PM.png)
+![FSR Reading Image](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/fsr-reading.png)
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
@@ -45,7 +45,7 @@ fsrReading = analogRead(fsrPin);
 fsrLED = map(fsrReading, 0, 1023, 0, 255);   
 analogWrite(led, fsrLED);
 ```
-Link to FSR Fading LED [code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/fsr_led_fade.ino)
+Link to FSR Fading LED [code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/fsr_led_fade/fsr_led_fade.ino)
 Link to [video](https://photos.app.goo.gl/nKdNUExjPa1w256cA)
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
@@ -90,7 +90,7 @@ Serial.print(x); Serial.print(","); Serial.print(y); Serial.print(","); Serial.p
 setColor(x, y, z);
 ```
 
-Link to [code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/accelerometer_LED.ino)
+Link to [code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/accelerometer_LED/accelerometer_LED.ino)
 
 Link to [video](https://photos.app.goo.gl/5LgmESzC5Gz6ThMq5)
 
@@ -118,7 +118,7 @@ void loop() {
 }
 ```
 
-![Image of OLED](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/OLED_analog0.jpg)
+![Image of OLED](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/OLED_analog0.jpg)
 
 ## Part F. Logging values to the EEPROM and reading them back
  
@@ -148,11 +148,13 @@ You can use the EEPROM.put() function, which allows to write data of primitive t
 
 The analog values were printed back to the Arduino Serial Monitor with ```Serial.println(analogRead(sensorPin));```.
 
-Link to [code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/switch_state/SwitchState2.ino)
+Link to [code](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/SwitchState2/SwitchState2.ino)
 
 ### 2. Design your logger
  
 **a. Insert here a copy of your final state diagram.**
+
+![Finite State Diagram(https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/finite_state_diagram.png) "Finite state diagram"]
 
 ### 3. Create your data logger!
  
