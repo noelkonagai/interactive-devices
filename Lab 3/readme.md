@@ -161,4 +161,5 @@ Note: I had to change slightly my idea because my speaker's wires detached and n
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+
 [Link to video](https://photos.app.goo.gl/SeRyMrhzQMr7v97G8)
