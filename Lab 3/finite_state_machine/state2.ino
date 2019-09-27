@@ -4,7 +4,7 @@ String textarray = "hello cornell tech!";
 int endAddr;
 
 void state2Setup() {
-  digitalWrite(ledPin, LOW);
+//  digitalWrite(ledPin, LOW);
   Serial.println("Writing to EEPROM");
   
   //if any of the pin settings for the different states differed for the different states, you could change those settings here.

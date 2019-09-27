@@ -1,7 +1,6 @@
 // State 0: clear EEPROM
 
 void state0Setup() {
-  digitalWrite(ledPin, LOW);
   Serial.println("Clearing EEPROM");
   //if any of the pin settings for the different states differed for the different states, you could change those settings here.
   for (int i = 0; i < EEPROMSIZE; i++) {

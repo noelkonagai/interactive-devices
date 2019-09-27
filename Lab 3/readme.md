@@ -154,8 +154,11 @@ Link to [code](https://github.com/noelkonagai/interactive-devices/blob/master/La
  
 **a. Insert here a copy of your final state diagram.**
 
-![Finite State Diagram](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/finite_state_diagram.png) "Finite state diagram"
+![Finite State Diagram](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/finite_state_diagram.png)
+
+Note: I had to change slightly my idea because my speaker's wires detached and needed to be resoldered. Instead, I am using an RGB LED as a display for which I record thrice 0-255 values from the softpot and play them back.
 
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+[Link to video](https://photos.app.goo.gl/SeRyMrhzQMr7v97G8)
