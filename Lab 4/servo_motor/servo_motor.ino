@@ -13,7 +13,7 @@ Servo myservo;  // create servo object to control a servo
 
 float pos = 0;
 
-int sensorPin = A0;    
+//int sensorPin = A0;    
 int sensorValue = 0;
 
 void setup() {
@@ -21,6 +21,6 @@ void setup() {
 }
 
 void loop() {
-  sensorValue = analogRead(sensorPin);
+  
   myservo.write(map(analogRead(A0),0,1023,0,180));
 }
