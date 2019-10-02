@@ -60,5 +60,6 @@ I realized that the arms of my puppet are uneven. I was not sure at the time of 
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+ 
  [Link to video](https://photos.app.goo.gl/94jWSJfF5ymYshdx9)
  I combined the puppet and my previous code where I used a softpot input to control the sweep of the servo motor.
