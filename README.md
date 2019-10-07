@@ -6,6 +6,7 @@ Completed Labs for Noel Konagai
 2. [Lab 2: Digital Timer](https://github.com/noelkonagai/IDD-Fa19-Lab2/blob/master/README.md)
 3. [Lab 3: Data Logger](https://github.com/noelkonagai/interactive-devices/tree/master/Lab%203)
 4. [Lab 4: Paper Displays](https://github.com/noelkonagai/interactive-devices/tree/master/Lab%204)
+5. [Lab 5: Jack in a Box]
 
 Completed Pre-Labs for Noel Konagai
 
