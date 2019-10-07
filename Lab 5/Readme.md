@@ -46,4 +46,7 @@ I used the .stl file from this [link](https://www.instructables.com/id/Laser-Cut
 
 The final box video can be found in this [link](https://photos.app.goo.gl/XyFJnoK1NbuPCiTu7)
 
-![Working Box]()
+![Working Box](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%205/images/jack.png)
+
+The droopy bear:
+![Droopy bear](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%205/images/droopy_bear.jpg)
