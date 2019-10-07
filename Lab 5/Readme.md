@@ -43,3 +43,7 @@ void loop()
 I used the .stl file from this [link](https://www.instructables.com/id/Laser-Cut-Bear/). Initially, I wanted to laser cut cardboards which I could put together into a figure like this bear. I was attempting to do so with Kirimoto, but the cardboard turned out to be too thick to create a realistic looking bear figure of such small size. Therefore, I opted for 3D printing. As it turns out, the weight of the head of the bear was heavy enough for it to require a dissolvable material as a support, which I did not think about. This way the chin of the bear loops droopy.
 
 ## The final box
+
+The final box video can be found in this [link](https://photos.app.goo.gl/XyFJnoK1NbuPCiTu7)
+
+![Working Box]()
