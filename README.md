@@ -8,6 +8,7 @@ Completed Labs for Noel Konagai
 4. [Lab 4: Paper Displays](https://github.com/noelkonagai/interactive-devices/tree/master/Lab%204)
 5. [Lab 5: Jack in a Box](https://github.com/noelkonagai/interactive-devices/tree/master/Lab%205)
 6. [Lab 6: Chatbot](https://github.com/noelkonagai/IDD-Fa19-Lab6)
+7. [Lab 7: Doorbell](https://github.com/noelkonagai/interactive-devices/tree/master/Lab%207)
 
 Completed Pre-Labs for Noel Konagai
 
