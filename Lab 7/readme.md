@@ -67,7 +67,7 @@ socket.on('play', function (data) {
 
 I also tried to improve on the camera image quality. According to some forums, if we skip the first few frames, the camera will adjust its brightness setting and we can get better images. I implemented a for loop, with which I was saving every 100th image, and well, it seems to work sometimes. Below is a comparison.
 
-![Img1] ![Img2]
+![Img1](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%207/images/image1.jpg) ![Img2](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%207/images/image2.jpg)
 
 However, if I leave this loop inside the code, it would take a long time to display it on the client side. So I had to remove it.
 
