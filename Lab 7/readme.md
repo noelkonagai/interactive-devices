@@ -2,15 +2,10 @@
 
 *A lab report by Noel Konagai*
 
-### In This Report
-
-1. Upload a video of your version of the camera lab to your lab Github repository
-1. As usual, update your class Hub repository to add your repository.
-1. Answer the questions in-line below on your README.md.
-
 ## Part A. HelloYou from the Raspberry Pi
 
 **a. Link to a video of your HelloYou sketch running.**
+
 [Link to video](https://photos.app.goo.gl/mDDVWGNKWpuW4vf26)
 
 ## Part B. Web Camera
